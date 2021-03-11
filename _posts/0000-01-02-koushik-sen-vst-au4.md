@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to koushik arena!"
 ---
-This is koushik slide
+This is my tutorial slide
 Use the right arrow to begin!
